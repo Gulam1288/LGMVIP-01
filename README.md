@@ -22,7 +22,7 @@ Welcome to the To-Do List app, a project developed during my LetsGrowMore intern
 
 2. **Navigate to the project directory:**
    ```bash
-   cd todo-list-app
+   cd LGMVIP-01
    ```
 
 3. **Install dependencies:**
